@@ -102,11 +102,16 @@ plt.savefig('Delivery Time Distribution')
 plt.show()
 ````
 #### Finding
-1. The histogram shows the distribution of order values within the dataset,This analysis helps us understand the spread and frequency of different order values.
-2. This analysis indicates that while all three payment methods are used, Cash on Delivery and Credit Cards are more prevalent compared to Digital Wallets.
-3. This pie chart of  frequency of discounts and offers help the  business to gain insights into their promotional strategies and customer behavior, enabling them to make data-driven decisions to optimize marketing efforts and maximize revenue
-4. This histogram chart helps us in Understanding peak order times in-order to the make  right resource allocation, such as staffing and inventory management, to meet high demand periods.
+1. The histogram shows the distribution of order values within the dataset,This analysis helps us understand the spread and frequency of different order values.![Distribution of order values](https://github.com/user-attachments/assets/10017044-3eeb-468e-8650-117b3b490c9f)
+
+2. This analysis indicates that while all three payment methods are used, Cash on Delivery and Credit Cards are more prevalent compared to Digital Wallets.![frequency of payment method](https://github.com/user-attachments/assets/9c21b519-8950-444d-902f-707c6a9fa19f)
+
+3. This pie chart of  frequency of discounts and offers help the  business to gain insights into their promotional strategies and customer behavior, enabling them to make data-driven decisions to optimize marketing efforts and maximize revenue.![frequency of discounts and offers](https://github.com/user-attachments/assets/37bab27b-6c42-486d-ae04-f0f484b87ac2)
+
+4. This histogram chart helps us in Understanding peak order times in-order to the make  right resource allocation, such as staffing and inventory management, to meet high demand periods.![order timing distribution](https://github.com/user-attachments/assets/49bd5866-5390-4979-9b6b-6af405a5b096)
+
 5. This chart helps in Identifying and addressing outliers can help improve overall delivery efficiency and customer satisfaction. Continuous monitoring ensures that delivery times remain within acceptable limits, enhancing the customer experience.
+![Delivery Time Distribution](https://github.com/user-attachments/assets/5eaeaafd-ba27-407b-80d3-ddc2474c0a9e)
 
 
 ### Discussion
