@@ -102,7 +102,8 @@ plt.savefig('Delivery Time Distribution')
 plt.show()
 ````
 #### Finding
-1. The histogram shows the distribution of order values within the dataset,This analysis helps us understand the spread and frequency of different order values.![Distribution of order values](https://github.com/user-attachments/assets/10017044-3eeb-468e-8650-117b3b490c9f)
+1. The histogram shows the distribution of order values within the dataset,This analysis helps us understand the spread and frequency of different order values.![Distribution of order values](https://github.com/user-attachments/assets/a1e83f1c-a11d-42dd-82b0-61a157b0fe80)
+
 
 2. This analysis indicates that while all three payment methods are used, Cash on Delivery and Credit Cards are more prevalent compared to Digital Wallets.![frequency of payment method](https://github.com/user-attachments/assets/9c21b519-8950-444d-902f-707c6a9fa19f)
 
